@@ -2,11 +2,11 @@
 AutosRUs' newest prototype, the MechaCar, is suffering from production troubles that are blocking manufacturing team's progress. Review production data for insights that might help manufacturing team
 
 ## Linear Regression to Predict MPG
-The intercept, ground clearance, and vehicle length were the lowest possibility to provide a non-random amount of variance to the mpg values in the dataset. 
-Is the slope of the linear model considered to be zero? Why or why not?
+The linear model that is being used to determine the statistically difference in each variable is shown in figure 1. 
+The intercept, ground clearance, and vehicle length were the lowest possibility to provide a non-random amount of variance to the mpg values in the dataset as shown in figure 2. 
+The slope of the linear model is not considered to be zero. It is impossible for a graph to be created due to the number of variables used and dimensions. They are impossible to plot more than 3 variables, which this model has, on a graph.
+This linear model does not predict mpg of MechaCar prototypes effectively. This is due to the fact that the intercept is statistically significant. When a intercept is statistically significant, there are other variables and factors that are statiscally signifiant that has not been included in the model.
 
-
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 ![Screen Shot 2022-12-11 at 10 13 09 AM](https://user-images.githubusercontent.com/110945895/206911877-df9a159e-16d3-457f-9673-6670ee9312aa.png)
 
 Figure 1. Data output of generate multiple linear regression model
