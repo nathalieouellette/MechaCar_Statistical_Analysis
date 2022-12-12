@@ -29,33 +29,30 @@ Figure 4. Each manufacturing lot summary table showing the mean, median, varianc
 ## T-Tests on Suspension Coils
 For the PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch is shown in figure 5. Assuming that the significance level was the common 0.05 percent is for all of the t-tests, our p-value is 0.05734 which means the p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and that the two means are statistically similar. 
 
-For the PSI for manufacturing lot 1 is no statistically different from the population mean of 1,500 pounds per square inch as shown in figure 6. The p-value for lot 1 is 0.9982 which is above significance value. Therefore, we do not have sufficient evidence to reject the null hypothesis, and that the two means are statistically similar.
-
-For the PSI for manufacturing lot 2 is not statistically different from the population mean of 1,500 pounds per square inch as shown in figure 7. The p-value for lot 2 is 0.6115 which is above significance value. Therefore, we do not have sufficient evidence to reject the null hypothesis, and that the two means are statistically similar.
-
-For the PSI for manufacturing lot 3 is statistically different from the population mean of 1,500 pounds per square inch as shown in figure 8. The p-value for lot 3 is 0.03966 which is below significance value. Therefore, we do have sufficient evidence to reject the null hypothesis, and that the two means are statistically different.
-
-
-H0 : There is no statistical difference between the observed sample mean and its presumed population mean.
-Ha : There is a statistical difference between the observed sample mean and its presumed population mean.
-
 ![Screen Shot 2022-12-11 at 7 18 38 PM](https://user-images.githubusercontent.com/110945895/206937852-8084033a-01b9-44b6-b146-5608cb04b006.png)
 
 Figure 5. the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch
+
+For the PSI for manufacturing lot 1 is no statistically different from the population mean of 1,500 pounds per square inch as shown in figure 6. The p-value for lot 1 is 0.9982 which is above significance value. Therefore, we do not have sufficient evidence to reject the null hypothesis, and that the two means are statistically similar.
 
 ![Screen Shot 2022-12-11 at 7 19 46 PM](https://user-images.githubusercontent.com/110945895/206937905-80b24579-c714-4911-8561-8fab03217116.png)
 
 Figure 6. Manufacturing lot 1 is statistically different from the population mean of 1,500 pounds per square inch
 
+For the PSI for manufacturing lot 2 is not statistically different from the population mean of 1,500 pounds per square inch as shown in figure 7. The p-value for lot 2 is 0.6115 which is above significance value. Therefore, we do not have sufficient evidence to reject the null hypothesis, and that the two means are statistically similar.
+
 ![Screen Shot 2022-12-11 at 7 20 59 PM](https://user-images.githubusercontent.com/110945895/206937968-8a92cc71-f2b5-456b-95df-6f336f2df1e5.png)
 
 Figure 7. Manufacturing lot 2 is statistically different from the population mean of 1,500 pounds per square inch
+
+For the PSI for manufacturing lot 3 is statistically different from the population mean of 1,500 pounds per square inch as shown in figure 8. The p-value for lot 3 is 0.03966 which is below significance value. Therefore, we do have sufficient evidence to reject the null hypothesis, and that the two means are statistically different.
 
 ![Screen Shot 2022-12-11 at 7 21 58 PM](https://user-images.githubusercontent.com/110945895/206938020-76aa2edc-26a5-4648-b81b-ff5018bb2864.png)
 
 Figure 8. Manufacturing lot 3 is statistically different from the population mean of 1,500 pounds per square inch
 
-
+H0 : There is no statistical difference between the observed sample mean and its presumed population mean.
+Ha : There is a statistical difference between the observed sample mean and its presumed population mean.
 
 ## Study Design: MechaCar vs Competition
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
