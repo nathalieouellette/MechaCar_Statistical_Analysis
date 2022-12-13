@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-AutosRUs' newest prototype, the MechaCar, is suffering from production troubles that are blocking manufacturing team's progress. Review production data for insights that might help manufacturing team
+AutosRUs' prototype, the MechaCar, is having trouble with production leading them to not be able to procceed to the next step which is manufacturing. The review production data is being used to help determine what is causing this issue. 
 
 ## Linear Regression to Predict MPG
 The linear model that is being used to determine the statistically difference in each variable is shown in figure 1. 
@@ -52,14 +52,5 @@ For the PSI for manufacturing lot 3 is statistically different from the populati
 Figure 8. Manufacturing lot 3 is statistically different from the population mean of 1,500 pounds per square inch
 
 ## Study Design: MechaCar vs Competition
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+Another statistical study that can quantify how the MechaCar performs against the competition is by testing the highway fuel efficiency. The metric that is being tested is litres per 100 km. . The null hypothesis is H0: the means of all groups are equal. The alternatice hypothesis is Ha: At least one of the means is different from all other groups. The statistical study would be using the one-way ANOVA. With a ANOVA test, there could be analysis of multiple competitive companies' vehicle classs instead of repeating doing t-test on each competitive companies' vehicle class. The data that is needed to run the statistical test is the highway fuel efficiency of the MechaCar and the other companies' highway fuel efficiency.
 
-In your description, address the following questions:
-
-What metric or metrics are you going to test?
-
-What is the null hypothesis or alternative hypothesis?
-
-What statistical test would you use to test the hypothesis? And why?
-
-What data is needed to run the statistical test?
